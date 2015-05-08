@@ -1,0 +1,3 @@
+# go-rc
+
+GO exercises
